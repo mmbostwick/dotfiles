@@ -1,4 +1,5 @@
 #!/bin/bash
+sudo pacman -S rofi nitrogen
 sudo pacman -S vimpager
 sudo pacman -S visual-studio-code-bin
 sudo pacman -S git code-git
